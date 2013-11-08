@@ -1,4 +1,4 @@
-name    'hairmareyumrepo'
+name    'hairmare-hairmareyumrepo'
 version '0.2.0-dev'
 source 'http://github.com/hairmare/puppet-hairmareyumrepo'
 author 'Lucas S. Bickel'
