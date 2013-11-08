@@ -1,0 +1,8 @@
+name    'hairmareyumrepo'
+version '0.1.0'
+source 'http://github.com/hairmare/puppet-hairmareyumrepo'
+author 'Lucas S. Bickel'
+license 'Affero Gnu Public License, Version 3.0'
+summary 'Setup the yum.hairmare.ch package repo'
+description 'Setup the yum.hairmare.ch package repo'
+project_page 'http://github.com/hairmare/puppet-hairmareyumrepo'
