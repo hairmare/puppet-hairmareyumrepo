@@ -1,5 +1,5 @@
 name    'hairmare-hairmareyumrepo'
-version '0.1.1'
+version '0.1.2'
 source 'http://github.com/hairmare/puppet-hairmareyumrepo'
 author 'Lucas S. Bickel'
 license 'Affero Gnu Public License, Version 3.0'
