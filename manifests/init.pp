@@ -1,12 +1,12 @@
-# = Class: hairmareyumrepos
+# = Class: hairmareyumrepo
 #
 # Requires:
 #   Centos was used during testing.
 #
 # Sample Usage:
-#  include hairmareyumrepos
+#  include hairmareyumrepo
 #
-class hairmareyumrepos {
+class hairmareyumrepo {
 
   yumrepo { 'hairmare-mongodb-RPMS':
     baseurl        => "http://yum.hairmare.ch/mongodb-RPMS/",
